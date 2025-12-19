@@ -82,28 +82,28 @@
       "name": "Residual GCB-Net: Residual Graph Convolutional Broad Network on Emotion Recognition",
       "publisher": "IEEE Transactions on Cognitive and Developmental Systems",
       "releaseDate": "2023",
-      "url": "",
+      "url": "https://ieeexplore.ieee.org/document/9698117",
       "summary": "ESI Highly Cited, JCR Q1. authors: Q. Li, T. Zhang, C. L. P. Chen, K. Yi and L. Chen."
     },
     {
       "name": "Enhancement and Optimisation of Human Pose Estimation with Multi-scale Spatial Attention and Adversarial Data Augmentation",
       "publisher": "Information Fusion",
       "releaseDate": "2024",
-      "url": "",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1566253524003002",
       "summary": "JCR Q1. authors: T. Zhang, Q. Li, J. Wen and C. L. P. Chen. Q. Li is the first student author."
     },
     {
       "name": "MCGC-Net: Multi-scale Controllable Graph Convolutional Network on Music Emotion Recognition",
       "publisher": "IEEE Transactions on Affective Computing",
       "releaseDate": "2025",
-      "url": "",
+      "url": "https://ieeexplore.ieee.org/document/11162645",
       "summary": "JCR Q1. authors: T. Zhang, Q. Li, X. Yang and C. L. P. Chen. Q. Li is the first student author."
     },
     {
       "name": "DGC-Link: Dual-Gate Chebyshev Linkage Network on EEG Emotion Recognition",
       "publisher": "IEEE Transactions on Affective Computing",
       "releaseDate": "2025",
-      "url": "",
+      "url": "https://ieeexplore.ieee.org/document/11141749",
       "summary": "JCR Q1. authors: Q. Li, T. Zhang, C. L. P. Chen, X. Zhang and B. Hu."
     }
   ],
