@@ -28,8 +28,13 @@ latest_posts:
 ---
 
 
--Qilin Li (Student Member, IEEE) received the BEng degree in electrical engineering and automation from the Wuhan University of Science and Technology, Wuhan, China, in 2019, and the MS degree in computer science from the University of Wollongong, Wollongong, NSW, Australia, in 2020. 
+-Qilin Li (Student Member, IEEE) received the BEng degree in electrical engineering and automation 
+from the Wuhan University of Science and Technology, Wuhan, China, in 2019, 
+and the MS degree in computer science from the University of Wollongong, 
+Wollongong, NSW, Australia, in 2020. 
 
--He is currently working towards the PhD degree in computer science and technology with the Guangdong Provincial Key Laboratory of Brain-inspired Cognitive Intelligence, the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China. 
+-He is currently working towards the PhD degree in computer science and technology 
+with the Guangdong Provincial Key Laboratory of Brain-inspired Cognitive Intelligence, 
+the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China. 
 
 -His current research interests include **affective computing** and **neural networks**.
