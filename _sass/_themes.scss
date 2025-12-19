@@ -228,4 +228,17 @@ body {
 .publication.selected {
   border-left: 4px solid #F2D49B;
 }
+/* 只针对底部这排图标：让它们在任何状态下都没有背景色 */
+.site-footer .page__footer-follow a,
+.site-footer .page__footer-follow a:visited,
+.site-footer .page__footer-follow a:hover,
+.site-footer .page__footer-follow a:focus {
+  background-color: transparent !important;
+  box-shadow: none !important;   /* 防止主题用阴影做“块”效果 */
+}
 
+/* 如果每个图标外面还有 li 或 span，也把它们的背景清掉 */
+.site-footer .page__footer-follow li,
+.site-footer .page__footer-follow span {
+  background-color: transparent !important;
+}
