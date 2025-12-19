@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/qilin/cv/";
           },
-        },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/qilin/_pages/dropdown/";
-          },
         },{id: "post-introducing-memo2496-a-large-scale-expert-annotated-dataset-for-music-emotion-recognition",
         
           title: "Introducing Memo2496: A Large-Scale Expert-Annotated Dataset for Music Emotion Recognition",
