@@ -28,9 +28,9 @@ latest_posts:
 ---
 
 
-Qilin Li (**Student Member**, **IEEE**) received the BEng degree in electrical engineering and automation 
-from the Wuhan University of Science and Technology, Wuhan, China, in 2019, 
-and the MS degree in computer science from the University of Wollongong, 
+Qilin Li (**Student Member**, **IEEE**) received the B.Eng. degree in electrical engineering and automation 
+from the Wuhan University of Science and Technology, Wuhan, Hubei, China, in 2018, 
+and the M.S. degree in computer science from the University of Wollongong, 
 Wollongong, NSW, Australia, in 2020. 
 
 He is currently working towards the PhD degree in computer science and technology 
