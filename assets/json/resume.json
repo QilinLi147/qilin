@@ -60,7 +60,7 @@
       "location": "Wollongong, Australia",
       "area": "Computer Science",
       "studyType": "M.S.",
-      "startDate": "2018-07-01",
+      "startDate": "2018-09-01",
       "endDate": "2020-07-01",
       "score": "",
       "summary": "Master of Science in Computer Science."
@@ -71,7 +71,7 @@
       "area": "Electrical Engineering and Automation",
       "studyType": "B.E.",
       "startDate": "2014-09-01",
-      "endDate": "2018-06-30",
+      "endDate": "2018-07-01",
       "score": "",
       "summary": "Bachelor of Engineering in Electrical Engineering and Automation."
     }
@@ -83,28 +83,28 @@
       "publisher": "IEEE Transactions on Cognitive and Developmental Systems",
       "releaseDate": "2023",
       "url": "",
-      "summary": "ESI Highly Cited, JCR Q1. Co-authors: Q. Li, T. Zhang, C. L. P. Chen, K. Yi and L. Chen."
+      "summary": "ESI Highly Cited, JCR Q1. authors: Q. Li, T. Zhang, C. L. P. Chen, K. Yi and L. Chen."
     },
     {
       "name": "Enhancement and Optimisation of Human Pose Estimation with Multi-scale Spatial Attention and Adversarial Data Augmentation",
       "publisher": "Information Fusion",
       "releaseDate": "2024",
       "url": "",
-      "summary": "JCR Q1. Co-authors: T. Zhang, Q. Li, J. Wen and C. L. P. Chen. Q. Li is the first student author."
+      "summary": "JCR Q1. authors: T. Zhang, Q. Li, J. Wen and C. L. P. Chen. Q. Li is the first student author."
     },
     {
       "name": "MCGC-Net: Multi-scale Controllable Graph Convolutional Network on Music Emotion Recognition",
       "publisher": "IEEE Transactions on Affective Computing",
       "releaseDate": "2025",
       "url": "",
-      "summary": "JCR Q1. Co-authors: T. Zhang, Q. Li, X. Yang and C. L. P. Chen. Q. Li is the first student author."
+      "summary": "JCR Q1. authors: T. Zhang, Q. Li, X. Yang and C. L. P. Chen. Q. Li is the first student author."
     },
     {
       "name": "DGC-Link: Dual-Gate Chebyshev Linkage Network on EEG Emotion Recognition",
       "publisher": "IEEE Transactions on Affective Computing",
       "releaseDate": "2025",
       "url": "",
-      "summary": "JCR Q1. Co-authors: Q. Li, T. Zhang, C. L. P. Chen, X. Zhang and B. Hu."
+      "summary": "JCR Q1. authors: Q. Li, T. Zhang, C. L. P. Chen, X. Zhang and B. Hu."
     }
   ],
 
