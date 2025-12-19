@@ -153,7 +153,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/qilin/assets/pdf/resume_qilin.pdf", "_blank");
+          window.open("/qilin/QilinLi147/qilin/assets/pdf/CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -188,7 +188,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/assets/pdf/resume_qilin.pdf# your ORCID ID", "_blank");
+          window.open("https://orcid.org/assets/pdf/resume_qilin.pdf", "_blank");
         },
       },{
         id: 'social-researchgate',
