@@ -153,7 +153,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/qilin/QilinLi147/qilin/assets/pdf/CV.pdf", "_blank");
+          window.open("/qilin/assets/pdf/CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -195,7 +195,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Qilin-Li-10/", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Qilin-Li-10/", "_blank");
         },
       },{
         id: 'social-rss',
