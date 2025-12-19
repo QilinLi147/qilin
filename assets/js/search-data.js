@@ -479,7 +479,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/qilin/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/qilin/assets/pdf/resume_qilin.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -489,11 +489,39 @@ ninja.data = [{
           window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/QilinLi147", "_blank");
+        },
+      },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/517674528793917/", "_blank");
+        },
+      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/assets/pdf/resume_qilin.pdf# your ORCID ID", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Qilin-Li-10/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -508,13 +536,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
