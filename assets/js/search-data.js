@@ -418,10 +418,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/qilin/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-paper-accepted-in-ieee-transactions-on-affective-computing",
+            },},{id: "news-paper-accepted-in-ieee-transactions-on-affective-computing",
           title: 'Paper Accepted in IEEE Transactions on Affective Computing',
           description: "",
           section: "News",handler: () => {
@@ -431,6 +428,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/qilin/news/announcement_2/";
+            },},{id: "news-awarded-national-scholarship-and-presidential-scholarship",
+          title: 'Awarded National Scholarship and Presidential Scholarship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/qilin/news/announcement_3/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
