@@ -168,14 +168,14 @@ a {
   color: #A191D9;
 }
 
-/* 2. 鼠标悬停或聚焦时：默认底色 #F2F2F2，文字 #A191D9 */
+/* 2. 默认悬停效果：灰底 + 紫色文字 */
 a:hover,
 a:focus {
   background-color: #F2F2F2;
   color: #A191D9;
 }
 
-/* 3. 顶部导航：品牌名和菜单项不改变背景色 */
+/* 3. 顶部导航：不改变背景色 */
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -195,18 +195,22 @@ a:focus {
   color: #A191D9 !important;
 }
 
-/* 4. 底部社交图标：不改变背景色，只改变颜色 */
-.social-icons a,
-.page__footer-follow a {
-  background-color: transparent !important;
+/* 4. 底部社交图标：强制不加任何背景色 */
+.page__footer-follow a,
+.page__footer-follow a:visited,
+.page__footer-follow a:hover,
+.page__footer-follow a:focus,
+.page__footer-follow .social-icons a,
+.page__footer-follow .social-icons a:hover,
+.page__footer-follow .social-icons a:focus {
+  background-color: transparent !important;  /* 关键：覆盖全局灰底 */
 }
 
-.social-icons a:hover,
-.social-icons a:focus,
-.page__footer-follow a:hover,
-.page__footer-follow a:focus {
-  background-color: transparent !important;  /* 不要灰底 */
-  color: #A191D9;                           /* 只让图标变紫 */
+/* 如果图标包在 span 里，也顺便去掉 span 的灰底 */
+.page__footer-follow .social-icons span,
+.page__footer-follow .social-icons span:hover,
+.page__footer-follow .social-icons span:focus {
+  background-color: transparent !important;
 }
 
 /* 5. about 页中 news / latest posts 链接稍微加粗 */
