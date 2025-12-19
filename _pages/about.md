@@ -33,7 +33,7 @@ from the Wuhan University of Science and Technology, Wuhan, Hubei, China, in 201
 and the M.S. degree in computer science from the University of Wollongong, 
 Wollongong, NSW, Australia, in 2020. 
 
-He is currently working towards the PhD degree in computer science and technology 
+He is currently working towards the Ph.D. degree in computer science and technology 
 with the Guangdong Provincial Key Laboratory of Brain-inspired Cognitive Intelligence, 
 the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China. 
 
