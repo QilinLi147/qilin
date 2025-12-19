@@ -163,28 +163,29 @@ html[data-theme-setting="light"] {
  * Qilin custom overrides
  ******************************/
 
-/* 链接、导航高亮等主色 */
-a,
-a:hover,
-a:focus {
+/* 1. 全站链接默认颜色 */
+a {
   color: #A191D9;
 }
 
+/* 2. 鼠标悬停或聚焦时：底色 #F2F2F2，文字 #A191D9 */
+a:hover,
+a:focus {
+  background-color: #F2F2F2;
+  color: #A191D9;
+}
+
+/* 3. 顶部导航当前选中 & 悬停（只改文字，不加底色） */
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
+  background-color: transparent;
   color: #A191D9 !important;
 }
 
-/* about 页中 news / latest posts 标题和链接 */
+/* 4. about 页中 news / latest posts 继承全局即可，如需更强效果可单独加粗 */
 .news a,
 .latest-posts a {
-  color: #A191D9;
-}
-
-.news a:hover,
-.latest-posts a:hover {
-  background-color: #BEBAD9;
-  color: #ffffff;
+  font-weight: 500;
 }
 
 /* 页面背景 */
