@@ -174,7 +174,7 @@ ninja.data = [{
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/517674528793917/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/517674528793917/", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -195,7 +195,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Qilin-Li-10/", "_blank");
+          window.open("https://www.researchgate.net/profile/Qilin-Li-10/", "_blank");
         },
       },{
         id: 'social-rss',
