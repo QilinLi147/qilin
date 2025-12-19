@@ -37,21 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/qilin/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/qilin/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/qilin/blog/";
-              },
-            },{id: "post-introducing-memo2496-a-large-scale-expert-annotated-dataset-for-music-emotion-recognition",
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/qilin/_pages/dropdown/";
+          },
+        },{id: "post-introducing-memo2496-a-large-scale-expert-annotated-dataset-for-music-emotion-recognition",
         
           title: "Introducing Memo2496: A Large-Scale Expert-Annotated Dataset for Music Emotion Recognition",
         
