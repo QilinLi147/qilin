@@ -168,19 +168,19 @@ a {
   color: #A191D9;
 }
 
-/* 2. 鼠标悬停或聚焦时：底色 #F2F2F2，文字 #A191D9 */
+/* 2. 鼠标悬停或聚焦时：默认底色 #F2F2F2，文字 #A191D9 */
 a:hover,
 a:focus {
   background-color: #F2F2F2;
   color: #A191D9;
 }
 
-/* 3. 导航栏：品牌名和菜单项不改变背景色 */
+/* 3. 顶部导航：品牌名和菜单项不改变背景色 */
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus {
   background-color: transparent;
-  color: inherit;          /* 保持主题默认颜色 */
+  color: inherit;
 }
 
 .navbar-nav .nav-link,
@@ -191,11 +191,25 @@ a:focus {
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link:focus,
 .navbar-nav .nav-link.active {
-  background-color: transparent;  /* 取消灰底 */
-  color: #A191D9 !important;      /* 仅文字变紫 */
+  background-color: transparent;
+  color: #A191D9 !important;
 }
 
-/* 4. about 页中 news / latest posts 链接稍微加粗 */
+/* 4. 底部社交图标：不改变背景色，只改变颜色 */
+.social-icons a,
+.page__footer-follow a {
+  background-color: transparent !important;
+}
+
+.social-icons a:hover,
+.social-icons a:focus,
+.page__footer-follow a:hover,
+.page__footer-follow a:focus {
+  background-color: transparent !important;  /* 不要灰底 */
+  color: #A191D9;                           /* 只让图标变紫 */
+}
+
+/* 5. about 页中 news / latest posts 链接稍微加粗 */
 .news a,
 .latest-posts a {
   font-weight: 500;
@@ -210,3 +224,4 @@ body {
 .publication.selected {
   border-left: 4px solid #F2D49B;
 }
+
