@@ -159,3 +159,41 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+/******************************
+ * Qilin custom overrides
+ ******************************/
+
+/* 链接、导航高亮等主色 */
+a,
+a:hover,
+a:focus {
+  color: #A191D9;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: #A191D9 !important;
+}
+
+/* about 页中 news / latest posts 标题和链接 */
+.news a,
+.latest-posts a {
+  color: #A191D9;
+}
+
+.news a:hover,
+.latest-posts a:hover {
+  background-color: #BEBAD9;
+  color: #ffffff;
+}
+
+/* 页面背景 */
+body {
+  background-color: #F2F2F2;
+}
+
+/* 选中论文左侧强调条 */
+.publication.selected {
+  border-left: 4px solid #F2D49B;
+}
+
