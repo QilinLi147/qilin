@@ -29,6 +29,3 @@ latest_posts:
 
 Qilin Li (Student Member, IEEE) received the BEng degree in electrical engineering and automation from the Wuhan University of Science and Technology, Wuhan, China, in 2018, and the MS degree in computer science from the University of Wollongong, Wollongong, NSW, Australia, in 2020. He is currently working towards the PhD degree in computer science and technology with the Guangdong Provincial Key Laboratory of Computational AI Models and Cognitive Intelligence, the School of Computer Science and Engineering, South China University of Technology, Guangzhou, China. His current research interests include affective computing and neural network.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
