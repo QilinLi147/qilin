@@ -175,21 +175,27 @@ a:focus {
   color: #A191D9;
 }
 
-
-/* 如果想标题“Qilin Li”完全不变色，加上这一段 */
+/* 3. 导航栏：品牌名和菜单项不改变背景色 */
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus {
-  color: inherit;
-}
-/* 3. 顶部导航当前选中 & 悬停（只改文字，不加底色） */
-.navbar-nav .nav-link.active,
-.navbar-nav .nav-link:hover {
   background-color: transparent;
-  color: #A191D9 !important;
+  color: inherit;          /* 保持主题默认颜色 */
 }
 
-/* 4. about 页中 news / latest posts 继承全局即可，如需更强效果可单独加粗 */
+.navbar-nav .nav-link,
+.navbar-nav .nav-link:visited {
+  background-color: transparent;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus,
+.navbar-nav .nav-link.active {
+  background-color: transparent;  /* 取消灰底 */
+  color: #A191D9 !important;      /* 仅文字变紫 */
+}
+
+/* 4. about 页中 news / latest posts 链接稍微加粗 */
 .news a,
 .latest-posts a {
   font-weight: 500;
@@ -204,4 +210,3 @@ body {
 .publication.selected {
   border-left: 4px solid #F2D49B;
 }
-
