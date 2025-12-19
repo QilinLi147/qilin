@@ -104,18 +104,18 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Qilin-Li-10/", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/qilin/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=eH393WgAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://space.bilibili.com/31196606", "_blank");
         },
       },{
       id: 'light-theme',
