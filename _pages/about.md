@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.scut.edu.cn/'>South China University of Technology</a>
+subtitle: **Ph.D. Candidate** at <a href='https://www.scut.edu.cn/'>South China University of Technology</a>
 
 profile:
   align: left
