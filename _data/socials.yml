@@ -54,7 +54,7 @@ scholar_userid: eH393WgAAAAJ # your Google Scholar ID
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
   logo: /assets/img/bilibili.svg  # can be png, svg, jpg
-  title: Bilibili
+  title: BiliBili
   url: https://space.bilibili.com/31196606
 
 
