@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-06-12'
 papers:
   eH393WgAAAAJ:9yKSN-GCB0IC:
-    citations: 12
+    citations: 13
     title: 'DGC-Link: Dual-Gate Chebyshev Linkage Network on EEG Emotion Recognition'
     year: '2025'
   eH393WgAAAAJ:d1gkVwhDpl0C:
-    citations: 28
+    citations: 29
     title: Enhancement and optimisation of human pose estimation with multi-scale spatial attention and adversarial data augmentation
     year: '2024'
   eH393WgAAAAJ:qjMakFHDy7sC:
