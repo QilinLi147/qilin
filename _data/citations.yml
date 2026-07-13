@@ -1,19 +1,19 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-13'
 papers:
   eH393WgAAAAJ:9yKSN-GCB0IC:
-    citations: 13
+    citations: 15
     title: 'DGC-Link: Dual-Gate Chebyshev Linkage Network on EEG Emotion Recognition'
     year: '2025'
   eH393WgAAAAJ:d1gkVwhDpl0C:
-    citations: 29
+    citations: 30
     title: Enhancement and optimisation of human pose estimation with multi-scale spatial attention and adversarial data augmentation
     year: '2024'
   eH393WgAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 6
     title: 'Mcgc-net: Multi-scale controllable graph convolutional network on music emotion recognition'
     year: '2025'
   eH393WgAAAAJ:u-x6o8ySG0sC:
-    citations: 72
+    citations: 75
     title: 'Residual GCB-Net: Residual graph convolutional broad network on emotion recognition'
     year: '2023'
