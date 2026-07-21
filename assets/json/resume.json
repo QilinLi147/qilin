@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Qilin Li",
-    "position": "Ph.D. Candidate",
+    "position": "Postdoctoral Researcher",
     "image": "",
     "email": "qilinli@ieee.org",
     "url": "https://qilinli147.github.io/qilin",
-    "summary": "Ph.D. candidate in Computer Science and Technology at South China University of Technology. Research interests include affective computing and neural networks.",
+    "summary": "Postdoctoral researcher in the Department of Automation at Tsinghua University. Research interests include affective computing, neural networks, EEG-based emotion recognition, music emotion recognition, and multimodal learning.",
     "location": {
-      "city": "Guangzhou",
+      "city": "Beijing",
       "country": "China"
     },
     "profiles": [
@@ -31,12 +31,12 @@
 
   "work": [
     {
-      "name": "South China University of Technology",
-      "position": "Ph.D. Candidate in Computer Science and Technology",
-      "location": "Guangzhou, China",
-      "startDate": "2022-09-01",
+      "name": "Tsinghua University",
+      "position": "Postdoctoral Researcher, Department of Automation",
+      "location": "Beijing, China",
+      "startDate": "2026-07-01",
       "endDate": "",
-      "summary": "Conducting research on affective computing and neural networks under the supervision of Prof. Tong Zhang and Prof. C. L. Philip Chen.",
+      "summary": "Conducting research on affective computing, neural networks, and multimodal learning.",
       "highlights": [
         "Focused on music emotion recognition and EEG-based affective computing.",
         "Developed deep learning models and large-scale emotion datasets."
@@ -49,11 +49,11 @@
       "institution": "South China University of Technology",
       "location": "Guangzhou, China",
       "area": "Computer Science and Technology",
-      "studyType": "Ph.D. Candidate",
+      "studyType": "Ph.D.",
       "startDate": "2022-09-01",
-      "endDate": "",
+      "endDate": "2026-06-08",
       "score": "",
-      "summary": "Ph.D. candidate in Computer Science and Technology, expected graduation July 2026. Supervisors: Prof. Tong Zhang and Prof. C. L. Philip Chen."
+      "summary": "Ph.D. in Computer Science and Technology. Supervisors: Prof. Tong Zhang and Prof. C. L. Philip Chen."
     },
     {
       "institution": "University of Wollongong",
@@ -105,6 +105,13 @@
       "releaseDate": "2025",
       "url": "https://ieeexplore.ieee.org/document/11141749",
       "summary": "JCR Q1. authors: Q. Li, T. Zhang, C. L. P. Chen, X. Zhang and B. Hu."
+    },
+    {
+      "name": "Memo2496: Expert-Annotated Dataset and Dual-View Adaptive Framework for Music Emotion Recognition",
+      "publisher": "IEEE Transactions on Affective Computing",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1109/TAFFC.2026.3715195",
+      "summary": "JCR Q1. authors: Q. Li, C. L. P. Chen and T. Zhang."
     }
   ],
 
