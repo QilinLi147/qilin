@@ -61,6 +61,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/qilin/news/announcement_3/";
+            },},{id: "news-ph-d-degree-awarded-by-south-china-university-of-technology",
+          title: 'Ph.D. Degree Awarded by South China University of Technology',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/qilin/news/announcement_5/";
+            },},{id: "news-memo2496-accepted-in-ieee-transactions-on-affective-computing",
+          title: 'Memo2496 Accepted in IEEE Transactions on Affective Computing',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/qilin/news/announcement_4/";
             },},{
         id: 'social-cv',
         title: 'CV',
