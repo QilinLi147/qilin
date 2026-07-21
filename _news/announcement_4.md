@@ -3,7 +3,15 @@ layout: post
 title: Memo2496 Accepted in IEEE Transactions on Affective Computing
 date: 2026-07-15
 related_posts: false
+thumbnail: /assets/img/cover.png
 ---
+
+<figure style="text-align: center; margin: 2rem auto;">
+  <img src="{{ '/assets/img/cover.png' | relative_url }}" alt="Memo2496 expert-annotated music emotion recognition dataset" style="max-width: 100%; height: auto;">
+  <figcaption style="font-style: italic; color: #6c757d; margin-top: 0.5rem; font-size: 0.9rem;">
+    Memo2496 includes 2,496 instrumental tracks with continuous valence-arousal labels from 30 expert annotators.
+  </figcaption>
+</figure>
 
 Our paper *"Memo2496: Expert-Annotated Dataset and Dual-View Adaptive Framework for Music Emotion Recognition"* has been accepted for publication in **IEEE Transactions on Affective Computing**.
 
